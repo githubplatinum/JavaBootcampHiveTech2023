@@ -28,6 +28,7 @@ public class Main {
         System.out.println(contents);
 
         System.out.println(contents.equals(konverzijskiFaktor));
+        // Vraca false
 
         if (brKilometara < 0)
             System.out.println("Broj kilometara mora biti pozitivan broj");
